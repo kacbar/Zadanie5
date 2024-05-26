@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|c:\\users\\kacper\\desktop\\szko\u0142a\\semestr6\\apbd\\terazwyjdzie\\apbd5\\apbd5\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|c:\\users\\kacper\\desktop\\szko\u0142a\\semestr6\\apbd\\terazwyjdzie\\apbd5\\apbd5\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|c:\\users\\kacper\\desktop\\szko\u0142a\\semestr6\\apbd\\terazwyjdzie\\apbd5\\apbd5\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\clienttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\clienttrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\countrytrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\countrytrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\models\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\models\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\apbd5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44844243-3730-47C9-AB24-4C538A7CBEB2}|APBD5\\APBD5.csproj|solutionrelative:apbd5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1641,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APBD5\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\appsettings.Development.json",
+              "RelativeToolTip": "APBD5\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T21:21:08.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "APBD5\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "APBD5\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:55:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\TripContext.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\TripContext.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\TripContext.cs",
+              "RelativeToolTip": "APBD5\\Models\\TripContext.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAewJEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:23:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "APBD5\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "APBD5\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:19:06.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\DTOs\\TripDTO.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\DTOs\\TripDTO.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\DTOs\\TripDTO.cs",
+              "RelativeToolTip": "APBD5\\Models\\DTOs\\TripDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:17:39.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\appsettings.json",
+              "RelativeDocumentMoniker": "APBD5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\appsettings.json",
+              "RelativeToolTip": "APBD5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T16:11:15.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Program.cs",
+              "RelativeDocumentMoniker": "APBD5\\Program.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Program.cs",
+              "RelativeToolTip": "APBD5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:31:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "APBD5\\Models\\DTOs\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:14:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\DTOs\\CountryDTO.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\DTOs\\CountryDTO.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\DTOs\\CountryDTO.cs",
+              "RelativeToolTip": "APBD5\\Models\\DTOs\\CountryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:14:28.542Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 999,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryTrip.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\CountryTrip.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\CountryTrip.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\CountryTrip.cs",
+              "RelativeToolTip": "APBD5\\Models\\CountryTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:22:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\Trip.cs",
+              "RelativeToolTip": "APBD5\\Models\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:16:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\Country.cs",
+              "RelativeToolTip": "APBD5\\Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:16:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientTrip.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\ClientTrip.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\ClientTrip.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\ClientTrip.cs",
+              "RelativeToolTip": "APBD5\\Models\\ClientTrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:16:44.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "APBD5\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Szko\u0142a\\Semestr6\\APBD\\TerazWyjdzie\\APBD5\\APBD5\\Models\\Client.cs",
+              "RelativeToolTip": "APBD5\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:11:42.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
